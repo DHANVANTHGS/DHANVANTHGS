@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=DHANVANTH%20GS&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Machine%20Learning%20%7C%20Backend%20Dev&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=DHANVANTH%20GS&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Dev%20%7C%20Cybersecurity%20%7C%20AI%20Engineering&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
-<img src="profile.png" width="180" style="border-radius:50%; border:3px solid #00F7FF; box-shadow: 0 0 25px #00F7FF, 0 0 50px #FF00E5;" />
+<img src="profile-frame.svg" width="260" />
 
 <br/>
 
@@ -117,9 +117,6 @@ Real-time patient risk classification & queue prioritization, with OCR prescript
 | 🥇 | Winner — FOSS HACK 2026 |
 | 🥇 | Winner — HackIT 2.0 |
 | 🥈 | Runner — Kanni x Pragyan Hackathon by NIT Trichy |
-| 🎯 | Finalist — ExploitX: Into the Void CTF |
-| 🎯 | Finalist — CIT Codeathon'25 (Top 15) |
-| 🎯 | Finalist — InnoYudh'25 & Nexathon'26 |
 
 </div>
 
