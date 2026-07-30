@@ -100,7 +100,7 @@ Real-time risk classification and hospital queue prioritization with OCR prescri
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/dhanvanth-gs" target="_blank">
+  <a href="https://www.linkedin.com/in/dhanvanth-gs-b34509305/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dhanvanthgs25@gmail.com">
