@@ -26,14 +26,39 @@
 
 ## <img src="https://img.shields.io/badge/-%3E_ABOUT_ME-0F0C29?style=flat-square&labelColor=00F7FF" height="28"/>
 
-```yaml
-name: Dhanvanth GS
-role: Cybersecurity + ML + Backend Developer
-education: "B.E. CSE (Cyber Security) @ Chennai Institute of Technology '28"
-current: "AI & Backend Development Intern @ Tech Mahindra"
-focus: ["Cybersecurity", "Machine Learning", "Secure Systems", "AI Orchestration"]
-fun_fact: "Organized a 48-hour national-level hackathon (HackSymmetric'26)"
-```
+<table>
+<tr>
+<td width="52%" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=700&color=00F7FF&center=false&vCenter=true&multiline=true&width=480&height=170&lines=%24+whoami;%3E+Dhanvanth+GS;%24+cat+role.txt;%3E+Backend+Dev+%2B+Cybersecurity+%2B+AI+Engineer;%24+echo+%24STATUS;%3E+Building+secure%2C+intelligent+systems...;%24+_" alt="terminal" />
+
+</td>
+<td width="48%" valign="top">
+
+&nbsp;
+
+🎓 &nbsp;**Education**  — B.E. CSE (Cyber Security), CIT '24–'28
+
+💼 &nbsp;**Currently** — AI & Backend Dev Intern @ Tech Mahindra
+
+🔭 &nbsp;**Focus** — Cybersecurity · ML · Secure Systems
+
+🌱 &nbsp;**Exploring** — LLM-powered security tooling & RAG pipelines
+
+⚡ &nbsp;**Fun fact** — Ran a 48-hr national hackathon, HackSymmetric'26
+
+📫 &nbsp;**Reach me** — dhanvanthgs25@gmail.com
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/400%2B-LeetCode-00F7FF?style=for-the-badge&labelColor=0F0C29" />
+  <img src="https://img.shields.io/badge/150%2B-CodeChef-FF00E5?style=for-the-badge&labelColor=0F0C29" />
+  <img src="https://img.shields.io/badge/5★-HackerRank%20Python-9D00FF?style=for-the-badge&labelColor=0F0C29" />
+  <img src="https://img.shields.io/badge/8+-Hackathons%20Won%2FFinaled-00F7FF?style=for-the-badge&labelColor=0F0C29" />
+</p>
 
 <br/>
 
@@ -117,6 +142,7 @@ Real-time patient risk classification & queue prioritization, with OCR prescript
 | 🥇 | Winner — FOSS HACK 2026 |
 | 🥇 | Winner — HackIT 2.0 |
 | 🥈 | Runner — Kanni x Pragyan Hackathon by NIT Trichy |
+
 
 </div>
 
