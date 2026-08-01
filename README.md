@@ -137,12 +137,27 @@ Real-time patient risk classification & queue prioritization, with OCR prescript
 
 <div align="center">
 
-| 🏆 | Achievement |
-|:---:|:---|
-| 🥇 | Winner — FOSS HACK 2026 |
-| 🥇 | Winner — HackIT 2.0 |
-| 🥈 | Runner — Kanni x Pragyan Hackathon by NIT Trichy |
+<sub><b>🥇 WINS</b></sub>
 
+<img src="https://img.shields.io/badge/🏆_Winner-FOSS_HACK_2026-FFD700?style=for-the-badge&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/🏆_Winner-HackIT_2.0-FFD700?style=for-the-badge&labelColor=0F0C29" />
+
+<br/><br/>
+
+<sub><b>🥈 RUNNER-UP</b></sub>
+
+<img src="https://img.shields.io/badge/🥈_Runner--Up-Kanni_x_Pragyan_Hackathon_(NIT_Trichy)-C0C0C0?style=for-the-badge&labelColor=0F0C29" />
+
+<br/><br/>
+
+<sub><b>🎯 FINALIST</b></sub>
+
+<img src="https://img.shields.io/badge/🎯_Finalist-Explore_%26_Evolve_Hackathon-00F7FF?style=for-the-badge&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/🎯_Finalist-ExploitX%3A_Into_the_Void_CTF-00F7FF?style=for-the-badge&labelColor=0F0C29" />
+<br/>
+<img src="https://img.shields.io/badge/🎯_Finalist-CIT_Codeathon'25_(Top_15)-9D00FF?style=for-the-badge&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/🎯_Finalist-InnoYudh'25-9D00FF?style=for-the-badge&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/🎯_Finalist-Nexathon'26-9D00FF?style=for-the-badge&labelColor=0F0C29" />
 
 </div>
 
