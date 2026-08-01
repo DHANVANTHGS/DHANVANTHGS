@@ -150,15 +150,6 @@ Real-time patient risk classification & queue prioritization, with OCR prescript
 
 <br/><br/>
 
-<sub><b>🎯 FINALIST</b></sub>
-
-<img src="https://img.shields.io/badge/🎯_Finalist-Explore_%26_Evolve_Hackathon-00F7FF?style=for-the-badge&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/🎯_Finalist-ExploitX%3A_Into_the_Void_CTF-00F7FF?style=for-the-badge&labelColor=0F0C29" />
-<br/>
-<img src="https://img.shields.io/badge/🎯_Finalist-CIT_Codeathon'25_(Top_15)-9D00FF?style=for-the-badge&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/🎯_Finalist-InnoYudh'25-9D00FF?style=for-the-badge&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/🎯_Finalist-Nexathon'26-9D00FF?style=for-the-badge&labelColor=0F0C29" />
-
 </div>
 
 <br/>
